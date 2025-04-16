@@ -1,4 +1,7 @@
-openbb
-streamlit
-plotly
-pandas
+streamlit 
+openbb 
+pandas 
+plotly 
+openbb-cboe
+openbb-yfinance
+
